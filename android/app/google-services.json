@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447370775629",
+    "project_id": "smartaccess-29406",
+    "storage_bucket": "smartaccess-29406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447370775629:android:711537d35c9398253da004",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartaccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlMXywPDuhUMR8B-OnVacl3umKh7USJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
