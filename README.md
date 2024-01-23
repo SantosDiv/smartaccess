@@ -1,7 +1,10 @@
 # smartaccess
 
-A new Flutter project.
+Aplicativo para controle de acesso de convidados em casamento.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+```shell
+  # run
+  flutter pub get
+```
